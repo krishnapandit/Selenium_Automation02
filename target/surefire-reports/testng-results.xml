@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="203" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="203" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+      <class name="krishnaSelenium.SeleniumTest">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:krishnaSelenium.SeleniumTest@5ce81285]" name="BrowserOpen" duration-ms="0" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:krishnaSelenium.SeleniumTest@5ce81285]" name="CloseBrowser" duration-ms="0" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- krishnaSelenium.SeleniumTest -->
+      <class name="krishnaSelenium.MoblieTest">
+        <test-method status="PASS" signature="MobileCloseBrowser()[pri:0, instance:krishnaSelenium.MoblieTest@52a86356]" name="MobileCloseBrowser" duration-ms="16" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCloseBrowser -->
+        <test-method status="PASS" signature="MoblieBrowserOpen()[pri:0, instance:krishnaSelenium.MoblieTest@52a86356]" name="MoblieBrowserOpen" duration-ms="0" started-at="2020-04-14T10:13:00 IST" finished-at="2020-04-14T10:13:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoblieBrowserOpen -->
+      </class> <!-- krishnaSelenium.MoblieTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
