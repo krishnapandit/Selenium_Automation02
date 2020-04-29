@@ -11,6 +11,12 @@ public class MoblieTest {
 	}
 	
 	@Test
+	public void MobileOpenBrowser()
+	{
+		System.out.println("mobilebrowserClosed");
+	}
+	
+	@Test
 	public void MobileCloseBrowser()
 	{
 		System.out.println("mobilebrowserClosed");
